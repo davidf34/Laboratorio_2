@@ -1,5 +1,4 @@
 # Laboratorio_2
-# lab2_punto1_punto2
 ALSE
 ==============
 LABORATORIO 2 
