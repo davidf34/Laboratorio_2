@@ -7,6 +7,7 @@ LABORATORIO 2
 
 Descripción del laboratorio (punto 1)
 -------------------------------
+Integrantes: David Sandoval, Andres Gomez.
 
 Se ejecuta en un ciclo infinito hasta que el usuario desee salir.
 EL programa consiste en que el usuario ingresa las coordenadas X y Y de dos puntos.
